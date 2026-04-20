@@ -38,8 +38,6 @@ Movie_Sentiment_Analysis/
 3. Extract the zip file
 4. Place **`IMDB Dataset.csv`** in the **same folder** as the notebook
 
-> **No internet / Kaggle account?** No worries — the notebook auto-generates a synthetic demo dataset if the CSV file is not found.
-
 ---
 
 ## ⚙️ Prerequisites
